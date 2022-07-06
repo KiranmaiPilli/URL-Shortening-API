@@ -1,4 +1,4 @@
-# Frontend Mentor - Shortly URL shortening API Challenge
+# Frontend Mentor - Shortly URL shortening API
 Coded by KiranmaiPilli
 
 #### The Challenge: 
